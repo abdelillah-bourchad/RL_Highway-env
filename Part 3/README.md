@@ -13,7 +13,7 @@ To visualize the behavior of an agent, follow these steps:
 Example:
 ```python
 model_path = "path/to/your/model"
-model = A2C.load(model_path)
+model = A2C.load(model_path, env=env, custom_objects = {'observation_space': env.observation_space, 'action_space': env.action_space})
 ```
 
 ## Using Tensorboard
