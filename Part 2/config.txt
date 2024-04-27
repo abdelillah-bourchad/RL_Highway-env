@@ -1,5 +1,4 @@
-config = {
-'action': {'lateral': True,
+config = { 'action': {'lateral': True,
             'longitudinal': False,
             'target_speeds': [0, 5, 10],
             'type': 'ContinuousAction'},
