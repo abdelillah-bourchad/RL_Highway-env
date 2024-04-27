@@ -23,7 +23,7 @@ Each part contains a `README.md` file providing specific instructions and explan
 - **Abdellilah BOURCHAD**: Implemented the racetrack navigation problem in `Part 2`.
 - **Mohamed Aziz TRIKI**: Worked on the intersection problem using DQN in `Part 3`.
 - **Lotfi KACHA**: Contributed to highway driving in a discrete environment in `Part 1`.
-- **Ibrahim RAMDANE**: Assisted in developing the highway driving environment in `Part 1`.
+- **Ibrahim RAMDANE**: Contributed to highway driving in a discrete environment in `Part 1`.
 
 ## Getting Started
 
