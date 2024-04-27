@@ -8,7 +8,7 @@ This repository is a collaborative effort showcasing the application of reinforc
 
 - **`Part 2`**: Deals with the racetrack problem, implementing a policy model to navigate complex racetracks. A detailed walkthrough is provided in the corresponding folder, including configuration, training, and result visualization.
 
-- **`Part 3`**: Training agents in the Intersection environment using StableBaselines library.
+- **`Part 3`**: Training agents in the intersection environment using the StableBaselines library.
 
 - **`requirements.txt`**: Lists all the necessary Python packages to install for running the project code.
 
@@ -21,7 +21,7 @@ Each part contains a `README.md` file providing specific instructions and explan
 ## Contributions
 
 - **Abdellilah BOURCHAD**: Implemented the racetrack navigation problem in `Part 2`.
-- **Mohamed Aziz TRIKI**: Worked on the intersection environment using in `Part 3`.
+- **Mohamed Aziz TRIKI**: Worked on the intersection environment in `Part 3`.
 - **Lotfi KACHA**: Contributed to highway driving in a discrete environment in `Part 1`.
 - **Ibrahim RAMDANE**: Contributed to highway driving in a discrete environment in `Part 1`.
 
