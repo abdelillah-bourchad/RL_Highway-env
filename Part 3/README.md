@@ -1,3 +1,7 @@
+## Training an Agent
+Training is done using `training_A2C.py`, `training_DQN.py` and `training_PPO.py`.
+You can set the parameters directly on the files. Executing the scripts will create two folders logs and models.
+
 ## Visualizing Agent Behavior
 
 To visualize the behavior of an agent, follow these steps:
