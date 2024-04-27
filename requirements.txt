@@ -1,0 +1,9 @@
+numpy
+torch
+gymnasium
+highway_env
+matplotlib
+tensorflow
+stable_baselines3
+IPython
+json5 
