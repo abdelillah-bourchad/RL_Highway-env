@@ -1,4 +1,4 @@
-# Multi-Part Reinforcement Learning Project
+# Reinforcement Learning Project 
 
 This repository is a collaborative effort showcasing the application of reinforcement learning (RL) to different driving scenarios, divided into three distinct parts. Each part addresses a unique problem in the domain of autonomous vehicles using various RL techniques.
 
@@ -10,11 +10,9 @@ This repository is a collaborative effort showcasing the application of reinforc
 
 - **`Part 3`**:Tackles the intersection problem using a deep Q-network (DQN). It demonstrates advanced techniques in reinforcement learning to manage intersection navigation and traffic.
 
-- **`RL_Highway-env`**: Contains the custom environment for the RL tasks related to highway driving.
-
 - **`requirements.txt`**: Lists all the necessary Python packages to install for running the project code.
 
-- **`Reinforcement_Learning_Project.pdf`**: A comprehensive report detailing the methodology, results, and analysis for each part of the project. *(To be added)*
+- **`Reinforcement_Learning_Project.pdf`**: A comprehensive report detailing the methodology, results, and analysis for each part of the project.
 
 ## Instructions
 
