@@ -5,22 +5,10 @@ This repository is a collaborative effort showcasing the application of reinforc
 ## Project Structure
 
 - **`Part 1`**: Focuses on highway driving with a discrete environment. It explores the basic concepts of reinforcement learning applied to driving behaviors on a highway.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/eleurent/highway-env/master/../gh-media/docs/media/highway-env.gif?raw=true"><br/>
-    <em>The highway environment</em>
-</p>
 
 - **`Part 2`**: Deals with the racetrack problem, implementing a policy model to navigate complex racetracks. A detailed walkthrough is provided in the corresponding folder, including configuration, training, and result visualization.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/eleurent/highway-env/master/../gh-media/docs/media/racetrack-env.gif?raw=true"><br/>
-    <em>The racetrack-v0 environment.</em>
-</p>
 
-- **`Part 3`**:Tackles the intersection problem using a deep Q-network (DQN). It demonstrates advanced techniques in reinforcement learning to manage intersection navigation and traffic.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/eleurent/highway-env/master/../gh-media/docs/media/intersection-env.gif?raw=true"><br/>
-    <em>The intersection-v0 environment.</em>
-</p>
+- **`Part 3`**: Training agents in the intersection environment using the StableBaselines library.
 
 - **`requirements.txt`**: Lists all the necessary Python packages to install for running the project code.
 
@@ -33,7 +21,7 @@ Each part contains a `README.md` file providing specific instructions and explan
 ## Contributions
 
 - **Abdellilah BOURCHAD**: Implemented the racetrack navigation problem in `Part 2`.
-- **Mohamed Aziz TRIKI**: Worked on the intersection problem using DQN in `Part 3`.
+- **Mohamed Aziz TRIKI**: Worked on the intersection environment in `Part 3`.
 - **Lotfi KACHA**: Contributed to highway driving in a discrete environment in `Part 1`.
 - **Ibrahim RAMDANE**: Contributed to highway driving in a discrete environment in `Part 1`.
 
