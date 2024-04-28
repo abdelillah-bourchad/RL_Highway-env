@@ -5,10 +5,23 @@ This repository is a collaborative effort showcasing the application of reinforc
 ## Project Structure
 
 - **`Part 1`**: Focuses on highway driving with a discrete environment. It explores the basic concepts of reinforcement learning applied to driving behaviors on a highway.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/eleurent/highway-env/master/../gh-media/docs/media/highway-env.gif?raw=true"><br/>
+    <em>The highway environment</em>
+</p>
 
 - **`Part 2`**: Deals with the racetrack problem, implementing a policy model to navigate complex racetracks. A detailed walkthrough is provided in the corresponding folder, including configuration, training, and result visualization.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/eleurent/highway-env/master/../gh-media/docs/media/racetrack-env.gif?raw=true"><br/>
+    <em>The racetrack-v0 environment.</em>
+</p>
 
 - **`Part 3`**: Training agents in the intersection environment using the StableBaselines library.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/eleurent/highway-env/master/../gh-media/docs/media/intersection-env.gif?raw=true"><br/>
+    <em>The intersection-v0 environment.</em>
+</p>
+
 
 - **`requirements.txt`**: Lists all the necessary Python packages to install for running the project code.
 
